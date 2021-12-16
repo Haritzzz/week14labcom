@@ -22,5 +22,7 @@
 	path = plugin4
 	url = https://github.com/Haritzzz/plugin4.git
 	ignore = dirty
-
-
+[submodule "pluginHarit"]
+	path = pluginHarit
+	url = https://github.com/Haritzzz/pluginHarit.git
+	ignore = dirty
